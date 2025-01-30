@@ -6,4 +6,8 @@ public class DemoTest2 {
 		System.out.println("Java");
 
 }
+	
+	public static int(a-b);
+	System.out.println(a-b);
+	
 }
